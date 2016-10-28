@@ -1,4 +1,4 @@
-Commit you code through command line code into Git bash
+Commit your code through command line code into Git bash
 
 Open Git Bash.
 
