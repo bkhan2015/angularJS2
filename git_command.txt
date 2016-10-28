@@ -1,4 +1,4 @@
-Commit your code through command line code into Git bash
+Commit you code through command line code into Git bash
 
 Open Git Bash.
 
@@ -25,6 +25,9 @@ $Git config --global https.proxy https://user:password@[Host Name]:[port]
 $Git config --global http.sslVerify false
 
 Then push your code into repository.
+But before you push your code pull latest code from remote repository URL
+$git pull [remote repository URL]
+
 # Pushes the changes in your local repository up to the remote repository you specified as the origin
 $git push origin master
 
