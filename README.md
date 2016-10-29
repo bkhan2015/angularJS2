@@ -9,4 +9,12 @@ Open that project folder in Git Bash
 Open your project folder in "Visual Studio Code"
 Create another folder "app" inside your root project folder
 Create your first file (package.json) outside of app folder
+Add all dependency key for angularJS2 module, version, licence type, and so on.
+create file typings.json and add code
+$ npm Install - will install all node modules
+create another configuration file tsconfig.json it will tell compiler to compile the typescript that is based on es5 which will support for all browser
+
+
+
+
 
