@@ -16,4 +16,7 @@ create file typings.json and add code - sometimes it's option
 $ npm Install - will install all node modules and typing folder --- sometimes typing folder doesn't create when you do "npm install" to create that folder follow below command:
 $ npm install -g typings
 $ typings install
-create a new typscript file under app folder [app.module.ts]
+create a new typscript file under app folder [app.module.ts] under app folder
+Create a new component typescript file for module [app.component.ts] under app folder
+create a another java script [main.js] under app folder
+Then add your index.html inside the root project folder
