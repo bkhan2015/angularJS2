@@ -10,9 +10,15 @@ Open your project folder in "Visual Studio Code"
 Create another folder "app" inside your root project folder
 Create your first file (package.json) outside of app folder
 Add all dependency key for angularJS2 module, version, licence type, and so on.
-create file typings.json and add code
-$ npm Install - will install all node modules
 create another configuration file tsconfig.json it will tell compiler to compile the typescript that is based on es5 which will support for all browser
+create onr more config file systemjs.config and add code -- it's basicall bundle your all dependency and build your application
+create file typings.json and add code - sometimes it's option 
+$ npm Install - will install all node modules and typing folder --- sometimes typing folder doesn't create when you do "npm install" to create that folder follow below command:
+$ npm install -g typings
+$ typings install
+Now create a new typscript file under app folder [app.module.ts]
+
+
 
 
 
